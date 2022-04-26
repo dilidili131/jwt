@@ -1,7 +1,6 @@
 # jwt
 springboot整合jwt
-[源代码仓库地址](https://github.com/dilidili131/jwt.git)
-https://github.com/dilidili131/jwt.git
+
 ## 一、导入jwt依赖
 ```xml
 <dependency>
